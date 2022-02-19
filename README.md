@@ -57,7 +57,7 @@ Para testar os desafios de forma individual:
 **Desafio 01** - Desenhe uma escada de asteriscos e espaços.  
 Abra o terminal na pasta raiz do projeto e digite: `yarn test draw-stairs/draw-stairs.test.js`  
 **Desafio 02** - Verificador de senha forte.  
-Abra o terminal na pasta raiz do projeto e digite: _~In progress~_  
+Abra o terminal na pasta raiz do projeto e digite: `yarn test strong-password-check/strong-password-check.test.js`  
 **Desafio 03** - Anagramas de substrings.  
 Abra o terminal na pasta raiz do projeto e digite: _~In progress~_
 
@@ -67,7 +67,7 @@ Este se encontra em `nome-do-desafio/nome-do-desafio.test.js`
 ## <a name="desafios"></a>Desafios
 
 [**Desafio 01** - Desenhe uma escada de asteriscos e espaços.](./draw-stairs/)  
-[**Desafio 02** - Verificador de senha forte.]()  
+[**Desafio 02** - Verificador de senha forte.](./strong-password-check/)  
 [**Desafio 03** - Anagramas de substrings.]()
 
 ## <a name="licenca"></a>Licença
