@@ -18,7 +18,7 @@ Desafio de programação da academia Capgemini 2022.
 
 ## <a name="status"></a>Status
 
-🚧 Desafio de Programação Capgemini 💻 In Progress 🚧
+✅ Desafio de Programação Capgemini 💻 concluído ✅
 
 ## <a name="abordagem"></a>Abordagem
 
